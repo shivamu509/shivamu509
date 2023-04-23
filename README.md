@@ -11,7 +11,7 @@
 
 - 🤝 I’m open to **any collobration work,**
 
-- 💬 Ask me about **Python Programming/Javascript/React/Expres**
+- 💬 Ask me about **Python Programming/Javascript/React/Express**
 
 - 📫 How to reach me **www.linkedin.com/in/shivam-upadhyay-70297b198**
 
